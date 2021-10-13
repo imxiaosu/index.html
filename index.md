@@ -12,7 +12,7 @@
       <p><b>地址：青岛市崂山区松岭路99号青岛科技大学大学</b></p>
     </td>
     <td width="25%">
-      <img src="/C.jpg" width="100%">     
+      <img src="/th.jpg" width="100%">     
     </td>
   </tr>
 </table>
